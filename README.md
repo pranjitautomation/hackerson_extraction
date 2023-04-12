@@ -11,3 +11,4 @@ This template robot:
 
 - [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
 - [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
+- Extract data from hrycarson website and store into a csv
